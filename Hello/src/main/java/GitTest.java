@@ -6,6 +6,5 @@ public class GitTest {
         System.out.println("hello Gitpart4");
         System.out.println("主干添加");
         System.out.println("分支添加");
-        System.out.println("嘿嘿");
     }
 }
